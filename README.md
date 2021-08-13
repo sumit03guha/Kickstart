@@ -1,6 +1,6 @@
 # Kickstart
 Repository comprising the blockchain implementation of the Kickstarter Crowdfunding project.\
-Inspired from - https://www.kickstarter.com/\
+Inspired from - https://www.kickstarter.com/
 
 ## Prerequisite
  Install Metamask in your browser and switch to Rinkeby test network and add ETH from https://faucet.rinkeby.io/
