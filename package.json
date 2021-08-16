@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@metamask/onboarding" : "1.0.1",
     "@metamask/detect-provider": "^1.2.0",
     "@truffle/hdwallet-provider": "^1.4.1",
     "fs-extra": "^10.0.0",
